@@ -32,12 +32,12 @@ What could be better for a business than being sustainable all year-round? W. Av
 
 Analysis was done by extracting all of June temperature data and December temperature data. The statistics are displayed below.
 
-June: 
+#### June: 
 
 ![](Images/june_temps.png)
 
 
-December:
+#### December:
 
 ![](Images/december_temps.png)
 
