@@ -23,3 +23,12 @@ The bar chart shows precipitation amounts for every day between Aug - 2016 to Au
 We also calculated some statistics on the precipitation levels for same time period:
 
 ![](Images/precipitation_stat.png)
+
+# Challenge Overview
+
+W. Avy liked the above analysis, and he wanted more information about temperature trends before opening the surf shop. Specifically, he wanted temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+
+# Challenge Analysis
+
+Analysis was done by extracting all of June temperature data and December temperature data. The statistics are displayed below.
+
