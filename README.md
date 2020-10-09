@@ -36,6 +36,7 @@ June:
 
 ![](Images/june_temps.png)
 
+
 December:
 
 ![](Images/december_temps.png)
