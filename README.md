@@ -17,4 +17,9 @@ The data analyze is important to W. Avy as some precipitation is necessary to cr
 Having created a bar chart based on the sqlite file provided by W. Avy, we can see that there are some trends, such as some months having more precipitation than others.
 The bar chart shows precipitation amounts for every day between Aug - 2016 to Aug - 2017.
 
+
 ![](Images/precipitation.png)
+
+We also calculated some statistics on the precipitation levels for same time period:
+
+![](Images/precipitation_stat.png)
